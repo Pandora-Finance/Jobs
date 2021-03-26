@@ -6,7 +6,7 @@ Smart contract developer with solidity skillsets
 
 Pandora Protocol is seeking a talented individual who possesses infinite curiosity. We’re looking for an experienced Blockchain(Smart Contract) Engineer to join our product team. You are results oriented and milestones driven with a good eye for design and the finer details to deliver well-documented technical solutions that are effective, clean and well-tested. We are a lean startup and expect you to wear many hats when needed and you are not afraid of getting your hands dirty.
 
-As an engineer, you'll work within the product team with other engineers and designers in building tthe middlelayer for NFT ecosystem which will drive the liquidity in the NFT ecosystem. As of now building product on BSC network , and at later stage will move to Polkadot.
+As an engineer, you'll work within the product team with other engineers and designers in building the middlelayer for NFT ecosystem which will drive the liquidity in the NFT ecosystem. As of now building product on BSC network , and at later stage will move to Polkadot.
 
 ##  ****Qualifications****
 
