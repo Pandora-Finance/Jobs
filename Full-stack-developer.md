@@ -6,7 +6,7 @@ Javascript ninja with Web3Js skillsets.
 
 Pandora Protocol is seeking a talented individual who possesses infinite curiosity. We’re looking for an experienced Blockchain(Smart Contract) Engineer to join our product team. You are results oriented and milestones driven with a good eye for design and the finer details to deliver well-documented technical solutions that are effective, clean and well-tested. We are a lean startup and expect you to wear many hats when needed and you are not afraid of getting your hands dirty.
 
-As an engineer, you'll work within the product team with other engineers and designers in building tthe middlelayer for NFT ecosystem which will drive the liquidity in the NFT ecosystem. As of now building product on BSC network , and at later stage will move to Polkadot.
+As an engineer, you'll work within the product team with other engineers and designers in building the middlelayer for NFT ecosystem which will drive the liquidity in the NFT ecosystem. As of now building product on BSC network , and at later stage will move to Polkadot.
 
 ##  ****Qualifications****
 
@@ -24,7 +24,7 @@ You have 1-3 years of experience building applications in high level programming
 Our engineers are also inventors of the company and responsible for leading multiple initiatives for building and testing complex applications. You will work as part of the product team in a fast paced environment with changing needs and requirements to develop solutions, communicate progress, technical issues and their resolutions.
 
 - Develop new products and iterate on user-facing features for web and mobile applications.
-- Develop new backend and API functionality to support front-end.
+- Develop new backend and API functionality to support front-end(VueJs/ReactJs).
 - Work closely with designers to maintain user-centric focus.
 - Support existing projects/applications.
 - Create modular code and libraries for future usage.
