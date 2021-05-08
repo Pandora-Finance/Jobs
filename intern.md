@@ -11,19 +11,29 @@ As an intern, you'll work within the product team with other engineers and desig
 ##  ****Responsibilities****
 
 • Write and maintain smart contracts
+
 • Create/ integrate with the front-end applications
+
 • Write end-to-end tests for all codebases (Contracts, middlewares, and front-end)
+
 • Document the entire development process
+
 • Be on top of the latest developments in the NFT ecosystem,
 
 ##  ****Qualifications****
 
 • B.Sc/B.Tech (Or in the final year) in Computer Science or a related field
-• Basics of how blockchains and consensus protocols work
+
+• Basics of how blockchains and various protocols work
+
 • Worked on Javascript/ Solidity or any object-oriented compiler-based programming languages.
+
 • Familiar with any of the CI/CD and container-orchestration tools such as Jenkins, Ansible, Kubernetes, Docker compose, etc.
+
 • Front-end development experience (JavaScript-based frameworks)
+
 • Motivated to learn anything and everything new in the space
+
 • Demonstratable opensource contribution in GitHub, Stack Overflow or any other platforms.
 
 
